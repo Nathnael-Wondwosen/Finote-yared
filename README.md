@@ -63,7 +63,7 @@ Finote Yared is published on Google Play:
 ## Screenshots
 
 <p align="center">
-  <img src="images/finot.png" alt="Finote Yared home screen" width="220">
+  <img src="images/finot.png" alt="Finote Yared home screen">
 </p>
 
 ## Vision
