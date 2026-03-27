@@ -1,0 +1,74 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# Editor and IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.bak
+.history/
+
+# Dart / Flutter / Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+.packages
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.flutter-versions/
+
+# Tooling caches
+.qodo/
+
+# Logs and diagnostics
+*.log
+*.class
+*.pyc
+
+# Android / Gradle generated output
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/captures/
+**/build/
+**/generated/
+**/build/generated/
+
+# iOS / CocoaPods generated output
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+
+# Symbolication / obfuscation output
+app.*.symbols
+app.*.map.json
+
+# Coverage and archives
+coverage/
+*.zip
+*.tar.gz
+
+# Secrets and signing files
+*.jks
+*.keystore
+key.properties
+google-services.json
+GoogleService-Info.plist

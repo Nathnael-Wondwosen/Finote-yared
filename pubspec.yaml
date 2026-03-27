@@ -1,0 +1,67 @@
+name: zema_finot
+description: "Fionte selam sunday school Mezmur Applciation."
+publish_to: 'none'
+version: 2.1.1+2
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_animate: ^4.2.0
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  path: ^1.8.3
+  provider: ^6.1.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.1
+  cupertino_icons: ^1.0.8
+  lottie: ^3.3.1
+  font_awesome_flutter: ^10.1.0
+  url_launcher: ^6.2.4
+  flutter_cache_manager: ^3.3.1
+  flutter_displaymode: ^0.6.0
+  shared_preferences: ^2.5.2
+  cached_network_image: ^3.3.0
+  share_plus: ^11.0.0
+  carousel_slider: ^5.0.0
+  audioplayers: ^6.4.0
+  connectivity_plus: ^6.1.4
+  # speech_to_text: ^6.3.0
+  # permission_handler: ^10.4.3
+
+
+dev_dependencies:
+  flutter_native_splash: ^2.4.6
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/songs.json
+    - assets/audios/
+    - assets/geez_words.json
+    - assets/amharic_letters.json
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo2.png"
+
+
+flutter_native_splash:
+  color: "#ffffff" # Background color (white in this case)
+  image: assets/images/app-logo.png # Path to your splash screen image
+  android: true # Enable splash screen for Android
+  ios: true # Enable splash screen for iOS
+  android_gravity: center # Center the image on Android
+  ios_content_mode: center # Center the image on iOS
+  web: false # Disable splash screen for web
