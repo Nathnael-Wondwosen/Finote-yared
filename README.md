@@ -6,6 +6,10 @@ Finote Yared is a mobile application created to present Ethiopian Orthodox hymn 
 
 The project reflects both product design thinking and practical engineering. It was built to make traditional spiritual content feel easier to access, easier to explore, and more engaging for modern users on mobile devices.
 
+<p align="center">
+  <img src="images/finot.png" alt="Finote Yared home screen">
+</p>
+
 ## Why This Project Matters
 
 This repository is more than an app showcase. It demonstrates my ability to design, structure, and ship a real mobile product with attention to usability, local data handling, state management, performance-aware UI patterns, and deployment-ready delivery.
@@ -57,14 +61,15 @@ This project highlights several areas of software development that matter in pro
 Finote Yared is published on Google Play:
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share"><strong>View on Google Play</strong></a>
+  <a href="https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share">
+    <img
+      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      alt="Get it on Google Play"
+      width="220"
+    >
+  </a>
 </p>
 
-## Screenshots
-
-<p align="center">
-  <img src="images/finot.png" alt="Finote Yared home screen">
-</p>
 
 ## Vision
 
