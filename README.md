@@ -1,99 +1,98 @@
-# ፍኖተ ያሬድ - Finote Yared
+# Finote Yared
 
-An Ethiopian Orthodox Sunday school hymn application (Mezmur Application) built with Flutter.
+<p align="center">
+  <img src="assets/images/app-logo.png" alt="Finote Yared logo" width="160">
+</p>
 
-## 🎵 App Description
-A comprehensive digital hymnal for Sunday school at Finote Selam church, containing over 5,000 Ethiopian Orthodox hymns organized by categories.
+<p align="center">
+  A faith-centered Ethiopian Orthodox hymn app designed with product thinking, clean Flutter architecture, and a strong mobile user experience.
+</p>
 
-## 🚀 Features
-- Browse hymns by categories (የዐውደ ዓመት, ዋይነ ግብረ ሰም, ወዘተ)
-- Search functionality for hymns
-- Favorites system
-- Audio playback support
-- Dark/Light theme options
-- Text size adjustment
-- Admin dashboard for content management
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share"><strong>View on Google Play</strong></a>
+</p>
 
-## 🛠️ Prerequisites
-- Flutter SDK (3.7.0 or higher)
-- Dart SDK (bundled with Flutter)
-- Android Studio / VS Code
-- Android SDK (for Android builds)
-- Xcode (for iOS builds, macOS only)
+## Product Overview
 
-## 📦 Installation
+Finote Yared is a mobile application created to present Ethiopian Orthodox hymn content in a beautiful, accessible, and organized digital experience. It brings together spiritual music, searchable hymn content, saved favorites, and rich media inside a focused interface built for everyday mobile use.
 
-1. **Clone the repository:**
-```bash
-git clone <your-repo-url>
-cd Finote-yared
-```
+The project reflects both product design thinking and practical engineering. It was built to make traditional spiritual content feel easier to access, easier to explore, and more engaging for modern users on mobile devices.
 
-2. **Install dependencies:**
-```bash
-flutter pub get
-```
+## Why This Project Matters
 
-3. **Run the application:**
-```bash
-flutter run
-```
+This repository is more than an app showcase. It demonstrates my ability to design, structure, and ship a real mobile product with attention to usability, local data handling, state management, performance-aware UI patterns, and deployment-ready delivery.
 
-4. **Build for release:**
-```bash
-# Android App Bundle (recommended for Play Store)
-flutter build appbundle --release
+For teams and companies reviewing my work, Finote Yared represents the kind of end-to-end development I can contribute:
 
-# Android APK
-flutter build apk --release --split-per-abi
-```
+- Product-focused mobile application development
+- Flutter UI engineering with structured screens and reusable components
+- Local persistence and data-driven content rendering
+- Mobile feature integration including audio and platform-specific capabilities
+- User-centered thinking shaped around clarity, accessibility, and engagement
 
-## 🏗️ Project Structure
-```
-lib/
-├── constants/          # App constants
-├── data/              # Static data files
-├── models/            # Data models
-├── providers/         # State management providers
-├── screens/           # UI screens
-├── services/          # App services
-├── utils/             # Utility functions
-├── widgets/           # Reusable widgets
-├── main.dart          # App entry point
-└── ...                # Other core files
-```
+## Core User Experience
 
-## 🎨 Customization
-- **Themes**: Adjust colors and themes via `AppSettingsProvider`
-- **Content**: Add/modify hymns via the admin panel
-- **Assets**: Images and audio files in `assets/` folder
+- Organized hymn browsing experience
+- Search support for fast content discovery
+- Favorites for saving meaningful selections
+- Audio playback for a richer devotional experience
+- Theme and settings support for personalized use
+- Admin-oriented content management flows
 
-## 📱 Production Notes
-- Version: 2.1.1
-- Package name: `org.finot.zema_finot`
-- The app bundle includes native code for audio playback and SQLite database operations
-- For Play Store, upload both the AAB and native debug symbols
+## Technical Highlights
 
-## 🔐 Admin Access
-- Default credentials: `finotit` / `sibhatefinot29`
-- Access admin panel via Settings > Admin Login
+Finote Yared was built with Flutter and structured across screens, services, providers, models, widgets, and local data layers. The project includes a combination of UI engineering, persistence, and feature integration that reflects practical app development work.
 
-## 📁 Assets
-- Hymn lyrics in `assets/songs.json`
-- Images in `assets/images/`
-- Audio files in `assets/audios/`
+- **Flutter + Dart** for cross-platform mobile development
+- **Provider** for app state and settings management
+- **SQLite (`sqflite`)** for persistent local data storage
+- **Shared Preferences** for lightweight user settings and session behavior
+- **Audio integration** using `audioplayers`
+- **Caching and media handling** with image and asset support
+- **Platform-aware setup** including Android and iOS project structure
+- **Custom theming** and adjustable presentation logic
+- **Voice-related service integration** prepared through platform channels
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## Engineering Focus
 
-## 📄 License
-This project is open source and available under the MIT License.
+This project highlights several areas of software development that matter in production mobile work:
 
-## ⚠️ Notes
-- This app is specifically designed for the Ethiopian Orthodox community
-- Contains culturally and religiously significant content
-- Designed with accessibility in mind for various user needs
+- Designing maintainable application structure instead of placing everything in a single file
+- Separating UI concerns from data, services, and settings logic
+- Building features around real user behavior such as search, playback, saved items, and content exploration
+- Handling local-first experiences with structured storage and retrieval
+- Combining visual polish with practical functionality
+- Delivering a publishable application already released to the Play Store
+
+## Google Play
+
+Finote Yared is published on Google Play:
+
+[https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share](https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share)
+
+## Screenshots
+
+<p align="center">
+  <img src="images/home.png" alt="Finote Yared home screen" width="220">
+  <img src="images/1.png" alt="Finote Yared app preview" width="220">
+  <img src="images/2.png" alt="Finote Yared content preview" width="220">
+</p>
+
+<p align="center">
+  <img src="images/3.png" alt="Finote Yared feature preview" width="220">
+  <img src="images/4.png" alt="Finote Yared interface preview" width="220">
+</p>
+
+## Vision
+
+Finote Yared exists to preserve, present, and celebrate Ethiopian Orthodox spiritual expression through a digital product that feels respectful, welcoming, and purposeful. It is intended to help users stay connected to hymn tradition through reading, listening, and daily engagement.
+
+## Developer
+
+Developed by **Nathanel Wondwosen**.
+
+I am a software developer focused on building useful, user-centered digital products with strong attention to interface quality, structure, and real-world delivery.
+
+## Copyright
+
+Copyright (c) 2025 Zema Finot. All rights reserved.
