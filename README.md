@@ -83,4 +83,4 @@ I am a software developer focused on building useful, user-centered digital prod
 
 ## Copyright
 
-Copyright (c) 2025 Zema Finot. All rights reserved.
+Copyright (c) 2017 E.C ፍኖተ ሰላም ሰንበት ት/ቤት (Finote Selam Sunday School). All rights reserved.
