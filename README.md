@@ -1,17 +1,5 @@
 # Finote Yared
 
-<p align="center">
-  <img src="assets/images/app-logo.png" alt="Finote Yared logo" width="160">
-</p>
-
-<p align="center">
-  A faith-centered Ethiopian Orthodox hymn app designed with product thinking, clean Flutter architecture, and a strong mobile user experience.
-</p>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share"><strong>View on Google Play</strong></a>
-</p>
-
 ## Product Overview
 
 Finote Yared is a mobile application created to present Ethiopian Orthodox hymn content in a beautiful, accessible, and organized digital experience. It brings together spiritual music, searchable hymn content, saved favorites, and rich media inside a focused interface built for everyday mobile use.
@@ -68,19 +56,14 @@ This project highlights several areas of software development that matter in pro
 
 Finote Yared is published on Google Play:
 
-[https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share](https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=org.finot.zema_finot&pcampaignid=web_share"><strong>View on Google Play</strong></a>
+</p>
 
 ## Screenshots
 
 <p align="center">
-  <img src="images/home.png" alt="Finote Yared home screen" width="220">
-  <img src="images/1.png" alt="Finote Yared app preview" width="220">
-  <img src="images/2.png" alt="Finote Yared content preview" width="220">
-</p>
-
-<p align="center">
-  <img src="images/3.png" alt="Finote Yared feature preview" width="220">
-  <img src="images/4.png" alt="Finote Yared interface preview" width="220">
+  <img src="images/finot.png" alt="Finote Yared home screen" width="220">
 </p>
 
 ## Vision
