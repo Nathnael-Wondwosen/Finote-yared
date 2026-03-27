@@ -2,7 +2,7 @@
 
 ## Product Overview
 
-Finote Yared is a mobile application created to present Ethiopian Orthodox hymn content in a beautiful, accessible, and organized digital experience. It brings together spiritual music, searchable hymn content, saved favorites, and rich media inside a focused interface built for everyday mobile use.
+Finote Yared is a mobile application created to present Ethiopian Orthodox hymn content in a beautiful, accessible, and organized digital experience. It brings together spiritual hymn, searchable hymn content, saved favorites, and rich media inside a focused interface built for everyday mobile use.
 
 The project reflects both product design thinking and practical engineering. It was built to make traditional spiritual content feel easier to access, easier to explore, and more engaging for modern users on mobile devices.
 
